@@ -11,7 +11,7 @@ This course will walk you through writing your first action and using it with a 
 
 **This is absolutely stunning.**
 
-![Beautiful Flower](/assets/flower.png)
+![Beautiful Flower](/flower.jpg)
 
 _How to increase beauty_
 
